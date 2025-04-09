@@ -1,4 +1,5 @@
-﻿using System;
+//Редьков Михаил ИП2-24
+using System;
 
 namespace Zoo
 {
@@ -189,11 +190,6 @@ namespace Zoo
       public void FeedAnimal()
       {
          IsFed = true;
-      }
-
-      public void UpdateAnimal()
-      {
-
       }
 
       public void ListAll()
